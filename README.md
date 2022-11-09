@@ -1,5 +1,5 @@
-# JavaScript-Basics
-<h1 align="center">JavaScript-Basics</a><h1>
+<h1 align="center">JavaScript-Basics><h1>
+    
 Реализуйте функцию fib() и экспортируйте её по умолчанию. Функция вычисляет положительные числа Фибоначчи. Аргументом является порядковый номер числа.
 
 Формула:
